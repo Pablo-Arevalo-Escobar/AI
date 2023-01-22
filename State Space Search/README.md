@@ -16,4 +16,4 @@ Instructions to run experiment:
 	◦	Give time to allow for processing.
 	◦	View Output files in the same directory as experiment code.
   
-  GIT: https://github.com/Pablo-Arevalo-Escobar/COMP472_A2
+  
