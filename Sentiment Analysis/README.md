@@ -22,4 +22,3 @@ Instructions to run experiment:
      * View Output files in the same directory as experiment code.
 
 
-GITHUB REPOSITORY LINK: https://tinyurl.com/comp472AI1
