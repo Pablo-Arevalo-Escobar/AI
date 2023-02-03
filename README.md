@@ -73,6 +73,10 @@ A Naive-Bayes classifier and Decision-Tree classifer are trained and tested usin
 
 ### Naive Bayes : Testing Results
 
+| Smoothing |    Accuracy   | Weighted Recall |  Weighted Precision | Weighted F1-Measure |
+|-----------| ------------- | -------------   | --------------------| --------------------|
+|   0.05    | 0.819135543432|  0.819135543432 |    0.819237343523   |    0.819162061498   |
+
 Naive-Bayes (smoothing = 0.05) accuracy :  0.8191355434326479
 
 Naive-Bayes (smoothing = 0.05) weighted recall :  0.8191355434326479
