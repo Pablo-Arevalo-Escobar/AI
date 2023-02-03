@@ -4,6 +4,8 @@ A collection of python code exploring a variety of AI methods
 ## Contents 
 
 - [Neural Net](#neural-net)
+    - [Decision Boundary](#classifier-decision-boundary)
+    - [Output Functions](#final-and-hidden-output-functions) 
 
 - [Clustering](#clustering)
     - [Data Formatting](#data-formatting)
