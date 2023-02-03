@@ -70,7 +70,9 @@ A Naive-Bayes classifier and Decision-Tree classifer are trained and tested usin
 
 ![](Images/CountOfSentimentType.png)
 
-### Naive Bayes : Training Results
+### Naive Bayes
+
+#### Naive Bayes : Training Results
 
 | Smoothing |    Accuracy   | Weighted Recall |  Weighted Precision | Weighted F1-Measure |
 |-----------| ------------- | -------------   | --------------------| --------------------|
@@ -81,14 +83,16 @@ A Naive-Bayes classifier and Decision-Tree classifer are trained and tested usin
 |   0.025   | 0.872311404889|  0.872311404889 |    0.872798854901   |    0.872312298878   |
 
 
-### Naive Bayes : Testing Results
+#### Naive Bayes : Testing Results
 
 | Smoothing |    Accuracy   | Weighted Recall |  Weighted Precision | Weighted F1-Measure |
 |-----------| ------------- | -------------   | --------------------| --------------------|
 |   0.05    | 0.819135543432|  0.819135543432 |    0.819237343523   |    0.819162061498   |
 
 
-### Base Decision Tree : Testing Results
+### Decision Tree
+
+#### Base Decision Tree : Testing Results
 
 |    Accuracy   | Weighted Recall |  Weighted Precision | Weighted F1-Measure |
 | ------------- | -------------   | --------------------| --------------------|
@@ -96,7 +100,7 @@ A Naive-Bayes classifier and Decision-Tree classifer are trained and tested usin
 
 
 
-### Best Decision Tree : Testing Results
+#### Best Decision Tree : Testing Results
 
 |    Accuracy   | Weighted Recall |  Weighted Precision | Weighted F1-Measure |
 | ------------- | -------------   | --------------------| --------------------|
