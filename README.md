@@ -3,6 +3,28 @@ Collection of python code exploring AI methods
 
 
 ## Neural Net - XOR problem
+A neural net implemented through Python to solve the XOR problem.
+
+Classifiers such as uni layered perceptrons can only handle linearly separable data, making them unable to solve non-linear problems like the XOR problem. Neural nets (or Multi Layered Perceptrons), however, are capable of handling such non-linear problems, making the XOR problem a suitable demonstration of their applications.
+
+
+### XOR Illustration
+
+![](Images/XOR.png)
+
+
+### Classifier Decision Boundary
+
+![](Images/DecisionBoundary.png)
+
+
+### Final and Hidden Output Functions
+
+![](Images/OutputFunctions.png)
+
+
+
+
 
 ### References
   [1] https://medium.com/analytics-vidhya/coding-a-neural-network-for-xor-logic-classifier-from-scratch-b90543648e8a
