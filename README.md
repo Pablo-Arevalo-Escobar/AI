@@ -1,5 +1,11 @@
 # AI
-Collection of python code exploring AI methods
+A collection of python code exploring a variety of AI methods
+
+## Contents 
+
+- [Neural Net](#neural-net-XOR-problem)
+
+- [Clustering](#clustering)
 
 
 ## Neural Net - XOR problem
