@@ -6,6 +6,8 @@ A collection of python code exploring a variety of AI methods
 - [Neural Net](#neural-net)
 
 - [Clustering](#clustering)
+    - [Data Formatting](#data-formatting)
+    - [Results](#results)
 
 - [Sentiment Analysis](#sentiment-analysis)
     - [Naive Bayes](#naive-bayes)
