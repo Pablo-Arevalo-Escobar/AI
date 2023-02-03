@@ -92,6 +92,8 @@ A Naive-Bayes classifier and Decision-Tree classifer are trained and tested usin
 |   0.05    | 0.819135543432|  0.819135543432 |    0.819237343523   |    0.819162061498   |
 
 
+
+
 ### Decision Tree
 
 #### Decision Tree : Training Results
