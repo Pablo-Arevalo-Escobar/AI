@@ -77,25 +77,20 @@ A Naive-Bayes classifier and Decision-Tree classifer are trained and tested usin
 |-----------| ------------- | -------------   | --------------------| --------------------|
 |   0.05    | 0.819135543432|  0.819135543432 |    0.819237343523   |    0.819162061498   |
 
-Naive-Bayes (smoothing = 0.05) accuracy :  0.8191355434326479
-
-Naive-Bayes (smoothing = 0.05) weighted recall :  0.8191355434326479
-
-Naive-Bayes (smoothing = 0.05) weighted precision :  0.8192373435226762
-
-Naive-Bayes (smoothing = 0.05) weighted f1-measure :  0.8191620614979724
 
 ### Base Decision Tree : Testing Results
 
-Base-DT accuracy :  0.6852706672261855
+|    Accuracy   | Weighted Recall |  Weighted Precision | Weighted F1-Measure |
+| ------------- | -------------   | --------------------| --------------------|
+| 0.685270667226|  0.685270667226 |    0.686562742126   |    0.685290619552   |
 
-Base-DT weighted recall :  0.6852706672261855
 
-Base-DT weighted precision :  0.6865627421261534
-
-Base-DT weighted f1-measure :  0.6852906195529649
 
 ### Best Decision Tree : Testing Results
+
+|    Accuracy   | Weighted Recall |  Weighted Precision | Weighted F1-Measure |
+| ------------- | -------------   | --------------------| --------------------|
+| 0.718422156945|  0.718422156945 |    0.718679219277   |    0.718483773165   |
 
 Best-DT accuracy :  0.7184221569450273
 
