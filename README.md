@@ -7,6 +7,8 @@ A collection of python code exploring a variety of AI methods
 
 - [Clustering](#clustering)
 
+- [Sentiment Analysis](#sentiment-analysis)
+
 
 ## Neural Net
 A neural net implemented through Python to solve the XOR problem.
@@ -55,3 +57,46 @@ K-Means clustering implementation performed on a sample image of Obama.
 
 ![](Images/ClusteringResults.png)
 ![](Images/ObamaClustered.png)
+
+
+
+## Sentiment Analysis
+
+A Python program that takes in a set of sentiment labeled reviews.
+
+A Naive-Bayes classifier and Decision-Tree classifer are trained and tested using an 80-20 split on the provided data.
+
+### Data Sentiment Spread
+
+![](Images/CountOfSentimentType.png)
+
+
+### Naive Bayes : Testing Results
+
+Naive-Bayes (smoothing = 0.05) accuracy :  0.8191355434326479
+
+Naive-Bayes (smoothing = 0.05) weighted recall :  0.8191355434326479
+
+Naive-Bayes (smoothing = 0.05) weighted precision :  0.8192373435226762
+
+Naive-Bayes (smoothing = 0.05) weighted f1-measure :  0.8191620614979724
+
+### Base Decision Tree : Testing Results
+
+Base-DT accuracy :  0.6852706672261855
+
+Base-DT weighted recall :  0.6852706672261855
+
+Base-DT weighted precision :  0.6865627421261534
+
+Base-DT weighted f1-measure :  0.6852906195529649
+
+### Best Decision Tree : Testing Results
+
+Best-DT accuracy :  0.7184221569450273
+
+Best-DT weighted recall :  0.7184221569450273
+
+Best-DT weighted precision :  0.7186792192777415
+
+Best-DT weighted f1-measure :  0.7184837731655974
