@@ -3,7 +3,7 @@ Collection of python code exploring AI methods
 
 ## Clustering 
 
-K-Means clustering implementation on a sample image.
+K-Means clustering implementation performed on a sample image of Obama.
 
 
 ### Data Formatting
