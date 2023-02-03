@@ -8,10 +8,10 @@ K-Means clustering implementation on a sample image.
 
 ### Data Formatting
 
-![Pattern-Recognition/ClusteringDataFormatting]
+![](Pattern-Recognition/ClusteringDataFormatting)
 
 
 
 ### Results
 
-![Pattern-Recognition/ClusteringDataFormatting]
+![](Pattern-Recognition/ClusteringResults)
