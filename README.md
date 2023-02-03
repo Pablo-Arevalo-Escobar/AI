@@ -92,10 +92,4 @@ A Naive-Bayes classifier and Decision-Tree classifer are trained and tested usin
 | ------------- | -------------   | --------------------| --------------------|
 | 0.718422156945|  0.718422156945 |    0.718679219277   |    0.718483773165   |
 
-Best-DT accuracy :  0.7184221569450273
 
-Best-DT weighted recall :  0.7184221569450273
-
-Best-DT weighted precision :  0.7186792192777415
-
-Best-DT weighted f1-measure :  0.7184837731655974
