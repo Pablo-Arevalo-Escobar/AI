@@ -8,8 +8,8 @@ A collection of python code exploring a variety of AI methods
 - [Clustering](#clustering)
 
 - [Sentiment Analysis](#sentiment-analysis)
-  -[Naive Bayes](naive-bayes)
-  -[Decision Tree](decision-tree)
+    -[Naive Bayes](naive-bayes)
+    -[Decision Tree](decision-tree)
 
 
 ## Neural Net
