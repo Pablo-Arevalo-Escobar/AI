@@ -92,7 +92,16 @@ A Naive-Bayes classifier and Decision-Tree classifer are trained and tested usin
 
 ### Decision Tree
 
+#### Decision Tree : Training Results
+
+
+|    Accuracy   | Weighted Recall |  Weighted Precision | Weighted F1-Measure |
+| ------------- | -------------   | --------------------| --------------------|
+| 0.999895079215|  0.999895079215 |    0.999895101610   |    0.999895079402   |
+
+
 #### Base Decision Tree : Testing Results
+
 
 |    Accuracy   | Weighted Recall |  Weighted Precision | Weighted F1-Measure |
 | ------------- | -------------   | --------------------| --------------------|
@@ -101,6 +110,7 @@ A Naive-Bayes classifier and Decision-Tree classifer are trained and tested usin
 
 
 #### Best Decision Tree : Testing Results
+
 
 |    Accuracy   | Weighted Recall |  Weighted Precision | Weighted F1-Measure |
 | ------------- | -------------   | --------------------| --------------------|
