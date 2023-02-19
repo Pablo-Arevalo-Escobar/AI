@@ -68,7 +68,8 @@ K-Means clustering implementation performed on a sample image of Obama.
 
 
 
-## Sentiment Analysis
+## Sentiment Analysis[hw1.pdf](https://github.com/Pablo-Arevalo-Escobar/AI/files/10775564/hw1.pdf)
+
 
 A Python program that takes in a set of sentiment labeled reviews.
 
@@ -129,9 +130,7 @@ A Naive-Bayes classifier and Decision-Tree classifer are trained and tested usin
 
 ## Regression
 
+[Uploading hw1.pdf…]()
 
-![](Images/vis_spread.png)
-![](Images/vis_M1png)
-![](Images/vis_M6.png)
-![](Images/vis_M15.png)
+
 
