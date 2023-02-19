@@ -14,6 +14,8 @@ A collection of python code exploring a variety of AI methods
 - [Sentiment Analysis](#sentiment-analysis)
     - [Naive Bayes](#naive-bayes)
     - [Decision Tree](#decision-tree)
+    
+- [Regression](#regression)
 
 
 ## Neural Net
@@ -124,4 +126,12 @@ A Naive-Bayes classifier and Decision-Tree classifer are trained and tested usin
 | ------------- | -------------   | --------------------| --------------------|
 | 0.718422156945|  0.718422156945 |    0.718679219277   |    0.718483773165   |
 
+
+## Regression
+
+
+![](Images/vis_spread.png)
+![](Images/vis_M1png)
+![](Images/vis_M6.png)
+![](Images/vis_M15.png)
 
