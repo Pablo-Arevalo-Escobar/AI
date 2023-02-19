@@ -132,5 +132,8 @@ A Naive-Bayes classifier and Decision-Tree classifer are trained and tested usin
 
 [Report.pdf](https://github.com/Pablo-Arevalo-Escobar/AI/files/10775565/Report.pdf)
 
-
+![](Images/vis_spread.png)
+![](Images/vis_M1png)
+![](Images/vis_M6.png)
+![](Images/vis_M15.png)
 
