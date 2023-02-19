@@ -130,7 +130,7 @@ A Naive-Bayes classifier and Decision-Tree classifer are trained and tested usin
 
 ## Regression
 
-[Uploading hw1.pdf…]()
+[Report.pdf](https://github.com/Pablo-Arevalo-Escobar/AI/files/10775565/Report.pdf)
 
 
 
