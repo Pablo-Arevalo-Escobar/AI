@@ -129,9 +129,11 @@ A Naive-Bayes classifier and Decision-Tree classifer are trained and tested usin
 
 
 ## Regression
+[report.pdf](https://github.com/Pablo-Arevalo-Escobar/AI/files/10775567/hw1.pdf)
 
-[Report.pdf](https://github.com/Pablo-Arevalo-Escobar/AI/files/10775565/Report.pdf)
 
+Regression theory and implementation done as an assignment for prof. Yang Wang at Concordia University
+#### Polynomial Regression
 ![](Images/vis_spread.png)
 ![](Images/vis_M1png)
 ![](Images/vis_M6.png)
